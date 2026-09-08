@@ -36,4 +36,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
