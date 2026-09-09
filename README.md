@@ -39,5 +39,6 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
 | [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
