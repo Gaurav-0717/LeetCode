@@ -22,6 +22,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## Hash Table
 |  |
@@ -41,4 +42,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
 | [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
