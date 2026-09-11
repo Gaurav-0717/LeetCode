@@ -23,6 +23,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
