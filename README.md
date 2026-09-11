@@ -23,6 +23,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
@@ -50,6 +51,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
