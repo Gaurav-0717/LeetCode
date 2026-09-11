@@ -27,12 +27,14 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## String
 |  |
@@ -71,4 +73,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
