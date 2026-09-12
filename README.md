@@ -28,6 +28,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0056-merge-intervals](https://github.com/Gaurav-0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## Hash Table
@@ -83,4 +84,32 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gaurav-0717/LeetCode/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
