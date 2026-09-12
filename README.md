@@ -27,6 +27,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Gaurav-0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Gaurav-0717/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Gaurav-0717/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
