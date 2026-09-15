@@ -32,6 +32,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gaurav-0717/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gaurav-0717/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
