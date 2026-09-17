@@ -44,6 +44,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gaurav-0717/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0796-rotate-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gaurav-0717/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -92,6 +94,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gaurav-0717/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
