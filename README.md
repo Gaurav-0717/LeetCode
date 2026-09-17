@@ -41,6 +41,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-0717/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## String
@@ -49,6 +50,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0014-longest-common-prefix](https://github.com/Gaurav-0717/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -83,6 +85,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Gaurav-0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
