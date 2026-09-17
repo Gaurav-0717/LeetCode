@@ -50,6 +50,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
+| [0796-rotate-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -140,4 +141,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
