@@ -54,6 +54,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -136,10 +137,12 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
