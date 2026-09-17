@@ -22,6 +22,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Gaurav-0717/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
@@ -44,6 +45,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-0717/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -51,6 +53,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-0717/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 ## Math
 |  |
