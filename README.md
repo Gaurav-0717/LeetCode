@@ -47,6 +47,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -129,4 +131,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
