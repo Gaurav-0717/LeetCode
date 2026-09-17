@@ -44,6 +44,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0648-replace-words](https://github.com/Gaurav-0717/LeetCode/tree/master/0648-replace-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-0717/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -61,6 +62,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0015-3sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
