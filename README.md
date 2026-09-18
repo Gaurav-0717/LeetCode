@@ -39,6 +39,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
@@ -49,6 +50,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Gaurav-0717/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Gaurav-0717/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-0717/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -68,6 +70,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
