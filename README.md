@@ -40,6 +40,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gaurav-0717/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-0717/LeetCode/tree/master/0242-valid-anagram) |
@@ -165,6 +166,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0021-merge-two-sorted-lists](https://github.com/Gaurav-0717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaurav-0717/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Gaurav-0717/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gaurav-0717/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
