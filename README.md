@@ -70,6 +70,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurav-0717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -163,6 +164,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurav-0717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gaurav-0717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaurav-0717/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Gaurav-0717/LeetCode/tree/master/0061-rotate-list) |
@@ -170,6 +172,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurav-0717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gaurav-0717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaurav-0717/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
