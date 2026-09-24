@@ -28,6 +28,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0031-next-permutation](https://github.com/Gaurav-0717/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Gaurav-0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Gaurav-0717/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-0717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-0717/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Gaurav-0717/LeetCode/tree/master/0493-reverse-pairs) |
@@ -40,6 +41,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-0717/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-0717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gaurav-0717/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-0717/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Gaurav-0717/LeetCode/tree/master/0229-majority-element-ii) |
@@ -175,4 +177,8 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | [0002-add-two-numbers](https://github.com/Gaurav-0717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gaurav-0717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaurav-0717/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-0717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
