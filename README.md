@@ -74,6 +74,7 @@ Welcome to my collection of *LeetCode solutions*! 🧠
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-0717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gaurav-0717/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Gaurav-0717/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurav-0717/LeetCode/tree/master/0012-integer-to-roman) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav-0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Gaurav-0717/LeetCode/tree/master/3870-count-commas-in-range) |
